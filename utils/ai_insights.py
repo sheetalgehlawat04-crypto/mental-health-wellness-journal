@@ -36,7 +36,7 @@ load_dotenv(dotenv_path=_env_path)
 # Model setup
 # ---------------------------------------------------------------------------
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 AI_DISCLAIMER = (
     "🤖 **AI-Generated Insight** — The text below is produced by an AI model "
